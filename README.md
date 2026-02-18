@@ -26,7 +26,7 @@ Frost sends `SIGSTOP` to pause target processes (and all their child processes).
 ### Build from source
 
 ```bash
-git clone https://github.com/nicekid1/Frost.git
+git clone https://github.com/Yessi-cmd/Frost.git
 cd Frost
 make run        # Build and launch
 make install    # Copy to /Applications
